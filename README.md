@@ -1,3 +1,3 @@
-# Calculator library fir CI/CD tutorial
+# Calculator library for CI/CD tutorial
 # https://realpython.com/python-continuous-integration/
 
